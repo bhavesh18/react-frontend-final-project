@@ -67,7 +67,7 @@ const Product = (props) => {
       <img src={product.image} alt="pizza" />
       <div className="text-center">
         <h2 className="text-lg font-bold py-2">{product.name}</h2>
-        <h2 className="text-lg py-2">{product.description}</h2>
+        <h2 style={{}}>{product.description}</h2>
         <span className="bg-gray-200 py-1 rounded-full text-sm px-4">
           {product.size}
         </span>
