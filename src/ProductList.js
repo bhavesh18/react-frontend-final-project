@@ -1,8 +1,8 @@
 const ProductList = [
     {
       __id: 1,
-      image: "images/pizza.png",
-      name: "pizza",
+      image: "images/chunky-chicken.png",
+      name: "Chunky Chicken",
       category: "breakfast",
       price: "12",
       size:'small',
@@ -13,7 +13,7 @@ const ProductList = [
     {
       _id: 2,
       image: "images/pizza.png",
-      name: "allu pako_ida",
+      name: "allu pako",
       category: "evening",
       price: "20",
       size:'small',
